@@ -61,7 +61,7 @@
         "url": "https://newsletter.semianalysis.com/feed",
         "enabled": true,
         "category": "semiconductors"
-      },
+      }
     ],
     "reddit": {
       "enabled": true,
